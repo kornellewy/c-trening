@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1561204623 source:/home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/main.cpp
+	<iostream>
+	"kjn_bank.h"
+	"kjn_sklep.h"
+	"Move.h"
+	"Plorg.h"
+
+1560855219 /home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/kjn_bank.h
+	<iostream>
+
+1560855302 source:/home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/src/kjn_bank.cpp
+	<iostream>
+	"kjn_bank.h"
+
+1561018315 /home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/include/kjn_sklep.h
+	<iostream>
+
+1561018388 source:/home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/src/kjn_sklep.cpp
+	"kjn_sklep.h"
+
+1561024078 source:/home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/src/Move.cpp
+	"Move.h"
+	<iostream>
+
+1561024078 /home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/include/Move.h
+
+1561204648 /home/kjnmain/Dropbox/c++/rozdzial_10_ciwiczenia_klasy/include/Plorg.h
+	<iostream>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1345016504 source:/home/kjnmain/Dropbox/c++/rozdzial_11_cwiczenia/src/vect.cpp
+	<cmath>
+	"vect.h"
+
+1345016504 /home/kjnmain/Dropbox/c++/rozdzial_11_cwiczenia/include/vect.h
+	<iostream>
+
+1561217035 source:/home/kjnmain/Dropbox/c++/rozdzial_11_cwiczenia/main.cpp
+	<iostream>
+	"vect.h"
+	<fstream>
+	"Complex_kjn.h"
+
+1345016504 /home/kjnmain/Dropbox/c++/rozdzial_11_cwiczenia/vect.h
+	<iostream>
+
+1561217468 source:/home/kjnmain/Dropbox/c++/rozdzial_11_cwiczenia/src/Complex_kjn.cpp
+	"Complex_kjn.h"
+	<iostream>
+
+1561217410 /home/kjnmain/Dropbox/c++/rozdzial_11_cwiczenia/include/Complex_kjn.h
+

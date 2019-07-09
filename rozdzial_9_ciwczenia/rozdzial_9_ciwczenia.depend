@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560324946 source:c:\users\kornel\dropbox\c++\rozdzial_9_ciwczenia\main.cpp
+	<iostream>
+
+1560324946 
+
+1560362316 source:/home/kjnmain/Dropbox/c++/rozdzial_9_ciwczenia/main.cpp
+	<iostream>
+	<ctype.h>
+

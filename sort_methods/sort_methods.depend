@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1558884056 source:c:\users\kornel\desktop\c++\sort_methods\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	"kjn_algorytm_lib.h"
+
+1559635026 ytm_lib.h"
+
+1558883704 source:c:\users\kornel\desktop\c++\sort_methods\kjn_algorytm_lib.cpp
+	<iostream>
+	<vector>
+	<random>
+	"kjn_algorytm_lib.h"
+
+1558883998 c:\users\kornel\desktop\c++\sort_methods\kjn_algorytm_lib.h
+	<iostream>
+	<vector>
+	<random>
+
+1560011573 
+
+1559635026 source:c:\users\kornel\dropbox\c++\sort_methods\kjn_algorytm_lib.cpp
+	<iostream>
+	<vector>
+	<random>
+	"kjn_algorytm_lib.h"
+
+1559579773 c:\users\kornel\dropbox\c++\sort_methods\kjn_algorytm_lib.h
+	<iostream>
+	<vector>
+	<random>
+
+1559905935 source:c:\users\kornel\dropbox\c++\sort_methods\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	"kjn_algorytm_lib.h"
+	"kjn_graph_lib.h"
+	"kjn_numeric_lib.h"
+
+1559905935 ic_lib.h"
+
+1559647307 source:c:\users\kornel\dropbox\c++\sort_methods\kjn_graph_lib.cpp
+	<iostream>
+	<vector>
+	"kjn_graph_lib.h"
+
+1559647307 _lib.h"
+
+1559647350 c:\users\kornel\dropbox\c++\sort_methods\kjn_graph_lib.h
+	<iostream>
+	<vector>
+
+1560012271 source:c:\users\kornel\dropbox\c++\sort_methods\kjn_numeric_lib.cpp
+	<iostream>
+	<vector>
+	"kjn_numeric_lib.h"
+	<math.h>
+
+1560011573 c:\users\kornel\dropbox\c++\sort_methods\kjn_numeric_lib.h
+	<iostream>
+	<vector>
+
+1559647307 source:/home/kjnmain/Dropbox/c++/sort_methods/kjn_graph_lib.cpp
+	<iostream>
+	<vector>
+	"kjn_graph_lib.h"
+
+1559646640 /home/kjnmain/Dropbox/c++/sort_methods/kjn_graph_lib.h
+	<iostream>
+	<vector>
+
+1559635026 source:/home/kjnmain/Dropbox/c++/sort_methods/kjn_algorytm_lib.cpp
+	<iostream>
+	<vector>
+	<random>
+	"kjn_algorytm_lib.h"
+
+1559579773 /home/kjnmain/Dropbox/c++/sort_methods/kjn_algorytm_lib.h
+	<iostream>
+	<vector>
+	<random>
+
+1560415039 source:/home/kjnmain/Dropbox/c++/sort_methods/kjn_numeric_lib.cpp
+	<iostream>
+	<vector>
+	"kjn_numeric_lib.h"
+	<math.h>
+
+1560415016 /home/kjnmain/Dropbox/c++/sort_methods/kjn_numeric_lib.h
+	<iostream>
+	<vector>
+
+1560415016 source:/home/kjnmain/Dropbox/c++/sort_methods/main.cpp
+	<iostream>
+	<vector>
+	<random>
+	"kjn_algorytm_lib.h"
+	"kjn_graph_lib.h"
+	"kjn_numeric_lib.h"
+

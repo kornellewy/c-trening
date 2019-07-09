@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1561999173 source:/home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/src/Cd.cpp
+	"Cd.h"
+	<iostream>
+	<cstring>
+
+1561991965 /home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/include/Cd.h
+	<iostream>
+
+1562235583 source:/home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/main.cpp
+	<iostream>
+	<cstring>
+	"Cd.h"
+	"Classic.h"
+	"cd_dyn.h"
+	"Port.h"
+	"VintagePort.h"
+
+1561998583 source:/home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/src/Classic.cpp
+	"Classic.h"
+	<cstring>
+
+1561996912 /home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/include/Classic.h
+	<Cd.h>
+
+1562077936 source:/home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/src/cd_dyn.cpp
+	"cd_dyn.h"
+	<iostream>
+	<cstring>
+
+1562050306 /home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/include/cd_dyn.h
+
+1562158427 /home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/include/Port.h
+	<iostream>
+
+1562235903 /home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/include/VintagePort.h
+	<Port.h>
+
+1562230686 source:/home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/src/Port.cpp
+	"Port.h"
+
+1562235633 source:/home/kjnmain/Dropbox/c++/rozdzial_13_ciwiczenia_dziedziczenie/src/VintagePort.cpp
+	"VintagePort.h"
+

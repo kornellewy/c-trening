@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558436883 source:c:\users\kornel\desktop\c++\[2019-05-20] challenge #378  havel-hakimi algorithm\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

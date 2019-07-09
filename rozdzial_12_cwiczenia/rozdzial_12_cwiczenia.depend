@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561643086 source:/home/kjnmain/Dropbox/c++/rozdzial_12_cwiczenia/main.cpp
+	<iostream>
+	"Cow.h"
+
+1561642906 /home/kjnmain/Dropbox/c++/rozdzial_12_cwiczenia/include/Cow.h
+
+1561643074 source:/home/kjnmain/Dropbox/c++/rozdzial_12_cwiczenia/src/Cow.cpp
+	<iostream>
+	"Cow.h"
+

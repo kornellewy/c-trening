@@ -1,0 +1,47 @@
+#include <iostream>
+#define LOG(x) std::cout << x << std::endl;
+
+//zad 1
+int zad1_number_of_use = 0;
+void zad1(char* tab, int n = 0);
+//zad 2
+struct batonik
+{
+    std::string marka = "millennium munch";
+    double waga = 2.85;
+    int kalorie = 350;
+};
+void ustaw(batonik& stan, std::string* nazwa, double* waga, int* kalorie);
+
+
+int main()
+{
+    //zad 1
+    char tab[] = "dupa_dupa";
+    char* s = *tab;
+    zad1(s);
+    zad1(s);
+    zad1(s);
+    zad1(s, 4);
+
+    return 0;
+}
+
+void zad1(char* tab, int n = 0)
+{
+    if (n!=0)
+    {
+        zad1_number_of_use++;
+        for (int i=0; i<zad1_number_of_use; i++)
+        {
+            LOG(tab);
+        }
+    }
+    zad1_number_of_use++;
+    LOG(tab);
+}
+
+void ustaw(batonik& stan, std::string* nazwa, double* waga, int* kalorie)
+{
+    int i =0;
+}
